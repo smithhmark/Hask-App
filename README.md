@@ -1,2 +1,4 @@
 # Hask-App
-a Haskell web app sandbos
+a Haskell web app sandbox
+
+Playing with Haskell web apps
